@@ -6,4 +6,4 @@
 
 Aplicativo Android de chat feito utilizando a linguagem Flutter.
 
-O app utiliza login e tem banco de dados para armazenar as mensagens e imagens, tudo utilizando o Firebase.
+O app utiliza login com a conta do Google e tem banco de dados para armazenar as mensagens e imagens, tudo utilizando o Firebase.
